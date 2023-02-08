@@ -1,0 +1,68 @@
+.borde{
+    border: solid 3px white;
+    background-color: rgb(9, 206, 255);
+    color: black;;
+}
+body{
+    background-color: black;
+    font:bolder;
+    font-style: normal;
+}
+.borde2{
+    border: solid 3px deeppink;
+    background-color:rgb(255, 191, 0);
+}
+.borde3{
+    border: solid 3px rgb(54, 54, 108);
+    background-color: yellow;
+}
+
+.borde4{
+    border: solid 3px rgb(182, 182, 206);
+    background-color: greenyellow;
+}
+
+
+
+
+textarea {
+    resize: none; }
+  
+  input, textarea, select, button {
+    font-family: "Muli-Regular";
+    font-size: 15px; }
+    ul {
+        padding: 0;
+        margin: 0;
+        list-style: none; }
+      
+      a {
+        text-decoration: none; }
+      
+      textarea {
+        resize: none; }
+      
+      img {
+        max-width: 100%; }
+      
+      .wrapper {
+        height: 100vh;
+        background: #f9f6f1;
+        display: flex;
+        align-items: center;
+        justify-content: center; }
+
+        .wizard {
+            width: 920px;
+            position: relative; }        
+
+
+            form{
+                background-color: rgb(190, 76, 76);
+                padding: 1%;
+                color:white;
+            }
+
+            .form-group{
+                padding: 3%;
+            }
